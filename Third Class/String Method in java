@@ -1,0 +1,49 @@
+package com.company;
+
+class string_method{
+		public static void main(String[] args)
+	{
+		String name="Anuj";
+		// int lenString = name.length();
+		// System.out.println("length of name:"+lenString);
+		// String TUC = name.toUpperCase();
+		// System.out.println("Upper case name:"+TUC);
+		// String TLC = name.toLowerCase();
+		// System.out.println("To Lower case:"+TLC);
+		
+		// String space_name = "        Anuj            ";
+		// System.out.println(space_name);
+		// String TS = space_name.trim();
+		// System.out.println("name without space:"+TS);
+		
+		// String Subs=name.substring(3);
+		// int start=1,stop=3;
+		// String Subs=name.substring(start,stop);
+		// System.out.println(Subs);
+		
+		// String name1="Harry";
+		// System.out.println(name1.replace('r','p'));
+		
+		// System.out.println(name.startsWith("A"));
+		
+		// System.out.println(name.endsWith("A"));
+		
+		// System.out.println(name.charAt(2));
+		
+		// String example="Anuj Varshney";
+		
+		// System.out.println(name.indexOf("n"));
+		
+		// System.out.println(example.indexOf("n",11));
+		
+		// System.out.println(example.lastIndexOf("n",4));
+		
+		// System.out.println(example.equals("anuj varshney"));
+		
+		// System.out.println(example.equalsIgnoreCase("anuj varshney"));
+		
+		
+		
+		
+	}
+}
