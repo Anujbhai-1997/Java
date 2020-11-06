@@ -1,0 +1,23 @@
+package com.company;
+
+
+class string_in_java
+{
+public static void main(String args[])
+{
+	String name="Anuj";
+// System.out.println(name);
+// int size=name.length();
+
+// String Upcase=name.toUpperCase();
+
+// String LWcase=name.toLowerCase();
+
+
+// Copy String System.out.println(LWcase);
+
+// Real String System.out.println(name);
+
+
+}
+}
