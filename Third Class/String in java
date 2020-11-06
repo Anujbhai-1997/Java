@@ -1,0 +1,29 @@
+package com.company;
+
+class string_in_java
+{	
+public static void main(String[] args)
+{	
+			// First Way
+// Error	1. String name=new String(original:"Anuj");
+	
+			// Second way
+	//2. String name=new String("Anuj");
+	
+			// Very Simple way
+	//3. String name="Anuj";
+
+// ______________________________________________________________________________________________________________
+
+	//1. System.out.print("Anuj");
+	
+	//2. System.out.printf("The valye of x = %d \n y is = %d and sum of both = %d\n",40,50,40+50);
+	
+	//3. System.out.format("The valye of x = %d \n y is = %d and sum of both = %d\n",40,50,40+50);
+	
+	//4. System.out.println(name);
+	
+	
+	System.out.println("hello");
+}
+}
