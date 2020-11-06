@@ -1,0 +1,33 @@
+package com.company;
+
+class string_practice
+{
+	public static void main(String[] args)
+	{
+		// problem : 1
+		// String name="Jack Parker";
+		// System.out.println("name is lowe case:"+name.toLowerCase());
+		
+		// problem : 2
+		// String text=name;
+		// text =text.replace(" ","_");
+		// System.out.println("space by underscore:"+text);
+		
+		// problem : 3
+		// String Text="Hello <|name|> thanks a lots";
+		// Text = Text.replace("<|name|>","Anuj");
+		// System.out.println("after text edit:"+Text);
+		
+		// problem : 4
+		// String text = "Hello_Anuj__How are_____you";
+		// System.out.println(text.indexOf("__"));
+		// System.out.println(text.indexOf("_"));
+		
+		// problem : 5	
+		// System.out.println("Dear Anuj \n\t You are a good boy");
+		
+		
+		
+	}
+}
+	
