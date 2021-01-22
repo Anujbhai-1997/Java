@@ -1,4 +1,8 @@
-<img align="center" src="https://nexax.in/wp-content/uploads/2020/11/java-1.gif" />
+<p align="center">
+    
+<img align="center" width="500" height="400" src="https://logos-download.com/wp-content/uploads/2016/10/Java_logo_icon.png" />
+
+</p>
 
 ---
 
